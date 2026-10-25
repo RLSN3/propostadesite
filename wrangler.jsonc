@@ -3,6 +3,6 @@
   "name": "proposta-site",
   "compatibility_date": "2026-10-25",
   "assets": {
-    "directory": "./public"
+    "directory": "./"
   }
 }
